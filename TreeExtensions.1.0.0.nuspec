@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>TreeExtensions</id>
+    <version>1.0.0</version>
+    <authors>Jason Norris</authors>
+    <description>Generic Tree interface ITree<T> and extension methods to operate on ITrees</description>
+    <language>en-US</language>
+    <projectUrl>http://xunit.codeplex.com/</projectUrl>
+    <licenseUrl>http://sam.zoy.org/wtfpl/COPYING</licenseUrl>
+	<requireLicenseAcceptance>false</requireLicenseAcceptance>
+  </metadata>
+  <files>
+	<file src="bin\Release\*.dll" target="lib\net40" /> 
+  </files>
+</package>
