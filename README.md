@@ -6,7 +6,7 @@ Generic Tree interface and extension methods for .NET 4
 
 Have you always wanted to operate on your object heirarchies 
 (non-binary tree structures) but never found a good implementation?
-Well, look no further, my friend. ITree<T> is all you need!
+Well, look no further, my friend. ITree&lt;T&gt; is all you need!
 
 All you need to do to implement the interface is include:
 
